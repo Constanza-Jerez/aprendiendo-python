@@ -45,5 +45,5 @@ Es parte de mi portafolio personal y mi formación continua como desarrolladora 
 ## 📌 Cómo usar este repo
 
 1. Clona el proyecto:
-git bash
-git clone https://github.com/ConyJerez/aprendiendo-python.git
+- git bash
+- git clone https://github.com/ConyJerez/aprendiendo-python.git
