@@ -1,4 +1,4 @@
-# 🐍 Aprendiendo Python desde Cero
+# 🐍 Aprendiendo Python 🐍
 
 Este repositorio contiene mi camino de aprendizaje en Python, organizado por módulos y temas clave.  
 Es parte de mi portafolio personal y mi formación continua como desarrolladora de datos 💻✨
