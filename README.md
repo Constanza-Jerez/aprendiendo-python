@@ -10,7 +10,7 @@ Es parte de mi portafolio personal y mi formación continua como desarrolladora 
 | Módulo | Tema | Estado |
 |--------|------|--------|
 | 01 | Variables | ✅ Terminado |
-| 02 | Funciones | ⏳ En progreso |
+| 02 | Funciones | ✅ Terminado |
 | 03 | Condicionales | ⏳ Pendiente |
 | 04 | Bucles | ⏳ Pendiente |
 | 05 | Estructuras de Datos (listas, tuplas, diccionarios) | ⏳ Pendiente |
