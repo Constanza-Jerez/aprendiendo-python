@@ -13,8 +13,8 @@ Es parte de mi portafolio personal y mi formación continua como desarrolladora 
 | 02 | Funciones | ✅ Terminado |
 | 03 | Condicionales | ✅ Terminado  |
 | 04 | Bucles | ✅ Terminado  |
-| 05 | Estructuras de Datos (listas, tuplas, diccionarios) | ⏳ Pendiente |
-| 06 | Módulos y Librerías | ⏳ Pendiente |
+| 05 | Estructuras de Datos (listas, tuplas, diccionarios) | ✅ Terminado |
+| 06 | Módulos y Librerías | ✅ Terminado |
 
 ---
 
