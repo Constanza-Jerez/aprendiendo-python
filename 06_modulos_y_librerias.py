@@ -171,17 +171,3 @@ except ImportError:
     print("La librería 'requests' no está instalada. Instálala con: pip install requests")
 
 print("-" * 40)
-
-# -------------------------------------------
-# Ejercicio propuesto
-# - Crea un pequeño script que lea un archivo CSV (módulo csv) con Python,
-#   convierta cada línea en un diccionario y luego guarde esos datos en un archivo JSON.
-#
-# Pista de solución:
-#   import csv, json
-#   with open("datos.csv", newline="", encoding="utf-8") as f:
-#       lector = csv.DictReader(f)
-#       lista_registros = [fila for fila in lector]
-#   with open("datos.json", "w", encoding="utf-8") as f:
-#       json.dump(lista_registros, f, indent=4, ensure_ascii=False)
-# -------------------------------------------
