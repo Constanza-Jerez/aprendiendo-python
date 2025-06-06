@@ -1,5 +1,5 @@
 # -------------------------------------------
-# 02 - Funciones en Python
+# 02 - Funciones en Python 🐍
 # -------------------------------------------
 
 # ¿Qué es una función?
@@ -83,3 +83,8 @@ def calcular_imc(peso, altura):
     return round(imc, 2)
 
 print("IMC:", calcular_imc(65, 1.68))
+
+# -------------------------------------------
+
+
+

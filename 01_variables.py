@@ -43,3 +43,4 @@ PI = 3.1416  # Las constantes se escriben en mayúsculas, aunque no son realment
 print("Valor de PI:", PI)
 
 # -------------------------------------------
+
