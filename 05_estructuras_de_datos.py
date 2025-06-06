@@ -174,22 +174,4 @@ for equipo, miembros in grupos.items():
         print("-", miembro)
 
 # -------------------------------------------
-# Ejercicio propuesto
-# - Crea una lista de diversas frutas (mismo nombre repetido algunas veces).
-# - Utiliza un diccionario para contar cuántas veces aparece cada fruta.
-# - Finalmente, imprime cada fruta con su respectivo conteo.
-
-# Sugerencia de solución:
-# frutas_lista = ["manzana", "banana", "pera", "manzana", "kiwi", "banana", "pera", "manzana"]
-
-# conteo = {}
-# for fruta in frutas_lista:
-#     if fruta in conteo:
-#         conteo[fruta] += 1
-#     else:
-#         conteo[fruta] = 1
-
-# print("\nConteo de frutas:")
-# for fruta, cantidad in conteo.items():
-#     print(f"{fruta}: {cantidad}")
 
