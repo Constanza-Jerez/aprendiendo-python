@@ -22,7 +22,7 @@ Es parte de mi portafolio personal y mi formación continua como desarrolladora 
 
 - [x] Python 3.11+
 - [x] VS Code
-- [x] Git & GitHub
+- [x] Git & Gitflow
 - [x] Jupyter Notebooks
 
 ---
